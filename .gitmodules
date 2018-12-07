@@ -1,3 +1,0 @@
-[submodule "courses/machinelearning"]
-	path = courses/machinelearning
-	url = https://github.com/udacity/machine-learning.git

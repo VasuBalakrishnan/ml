@@ -1,11 +1,11 @@
-# Udacity Nanodegree Programs
+# Machine Learning
 
-This repository contains projects and notes for the following Udacity's Nanodegree programs.
+This repository contains my notes and projects in ML space. 
+
+I've started taking these Udacity Nanodegree courses in Nov 2018, and as I progress through these courses, I'll be uploading my project submission and lecture notes.
 
 * [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 * [Artificial Intelligene for Trading](https://www.udacity.com/course/ai-for-trading--nd880)
-
-I've started taking these courses in Nov 2018, and as I progress through these courses, I'll be uploading my project submission and lecture notes.
 
 Here are some links that I found useful
 

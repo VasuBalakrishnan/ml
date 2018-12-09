@@ -13,3 +13,4 @@ Here are some links that I found useful
 * [Numpy and pandas Cheat Sheet](https://github.com/jessicayung/data-analyst-nd/blob/master/2-intro-to-data-analysis/numpy_pandas_cheatsheet.pdf)
 
 
+* [Cross Validation and Grid Search](https://stackabuse.com/cross-validation-and-grid-search-for-model-selection-in-python/)
